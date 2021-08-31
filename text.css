@@ -1,0 +1,48 @@
+body{
+	background-color :cyan;
+}
+h1{
+	color:white;
+    text-align: center;
+	font-style:Italic;
+	background-color:gray;
+}
+table,tr,td{
+	color:blue;
+	text-align: center;
+	border: 2px solid grey;
+	background-color:white;
+	
+}
+th{
+	color:white;
+	text-align: center;
+	border: 2px solid blue;
+	font-size:20px;
+	
+}
+th{
+	background-color:grey;
+}
+button{
+	background-color:blue;
+	text-color:black;
+	font-size:25px;
+	style:margin-left: 57%;
+	color: whitesmoke;
+	border: 2px solid #2196f3;
+	margin-top: 10px;
+	background: #2196f3;
+	border-radius: 4px;
+}
+.center{
+	margin-left:480px;
+	margin-right:480px;
+}
+.center1{
+  margin: auto;
+  width: 50%;
+  border: 3px dashed blue;
+  padding: 10px;
+  background-clip: content-box;
+}
